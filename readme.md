@@ -5,3 +5,10 @@
 
 ## use db_name:
 - select the database for working
+
+## Aggregate FUnctions:
+- MIN()
+- MAX()
+- SUM()
+- AVG()
+- COUNT()
